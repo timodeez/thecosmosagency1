@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://thecosmos.agency/sitemap.xml
+
+Sitemap: https://www.thecosmos.agency/sitemap.xml
